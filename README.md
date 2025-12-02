@@ -4,7 +4,8 @@ A modern, production-ready React application demonstrating seamless integration 
 
 **Live Demo:** [https://contentful-cms-demo.netlify.app/](https://contentful-cms-demo.netlify.app/)
 
----
+<img width="1510" height="490" alt="Screenshot 2025-12-02 at 13 32 49" src="https://github.com/user-attachments/assets/e46211ae-5a78-4c8a-9a3b-86efc766405a" /> <img width="1423" height="921" alt="Screenshot 2025-12-02 at 13 33 21" src="https://github.com/user-attachments/assets/b043b3ff-5258-43d7-a0d2-eed3414f578e" />
+
 
 ## 📋 Table of Contents
 
